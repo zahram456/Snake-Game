@@ -1,0 +1,1 @@
+py -3.13 "d:/My projects/Snake Game/snake_game.py"
